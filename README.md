@@ -24,7 +24,7 @@ The `tests/` folder contains real, executable automated tests:
 - **E2E Tests**: `tests/e2e/workspace-flow.spec.ts` (6 tests)
 - **Performance Tests**: `tests/performance/load-test.js`
 
-### ✅ Test Results
+###  Test Results
 
 **22 out of 22 tests passing (100%)**
 
@@ -34,7 +34,7 @@ The `tests/` folder contains real, executable automated tests:
 ✓ Integration Tests: 8/8 passed (100%)
 ```
 
-### 🚀 How to Run Tests
+### How to Run Tests
 
 ```bash
 # Install dependencies
